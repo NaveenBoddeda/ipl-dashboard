@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.match-card-container {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  width: 150px;
+  padding: 10px;
+  list-style-type: none;
+  text-align: center;
+}
+.match-card-logo {
+  height: 50px;
+  width: 50px;
+}

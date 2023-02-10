@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.latest-match-container {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  min-width: 90%;
+}
+.competing-team-logo {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+}
+.heading {
+  color: white;
+  text-align: left;
+}
+.des {
+  text-align: right;
+}
+.team {
+  font-size: 28px;
+}
